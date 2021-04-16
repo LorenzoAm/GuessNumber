@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GuessNumber</string>
+    <string name="start_message">Click on the emoji to start the game</string>
+    <string name="lives">Lives : </string>
+    <string name="text_suggestion">  Insert a number in range 1–10</string>
+    <string name="guess">GUESS</string>
+    <string name="play_message">Try to guess the number !</string>
+    <string name="error_message">Enter a valid number !</string>
+    <string name="won_message"> You won! click the emoji to play again</string>
+    <string name="wrong_message">Ops! Try again</string>
+    <string name="game_over"> You lost! click the emoji to play again</string>
+    <string name="secret"> Secret number : </string>
+</resources>
